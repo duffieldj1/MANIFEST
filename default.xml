@@ -556,4 +556,4 @@
   <project path="vendor/pac" name="android_vendor_pac" remote="jdx" revision="pac-6.0" >
 <!-- END JDX -->
 
-</manifest>
+<manifest>
