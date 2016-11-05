@@ -550,4 +550,11 @@
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="ss" />
 <!-- END SPLIT-SCREEN -->
 
+<!-- BEGIN JDX -->
+  <project path="device/qcom/common" name="android_device_qcom_common" remote="jdx" />
+  <project path="kernel/alcatel/msm8916" name="android_kernel_alcatel_msm8916" remote="jdx" />
+  <project path="device/alcatel/idol3" name="android_device_alcatel_idol3" remote="jdx" />
+  <project path="vendor/alcatel" name="proprietary_vendor_alcatel" remote="jdx" />
+<!-- END JDX -->
+
 </manifest>
